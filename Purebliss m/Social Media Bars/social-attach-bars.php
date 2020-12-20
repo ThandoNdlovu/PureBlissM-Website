@@ -1,5 +1,5 @@
 <div class="social">
-<a href="https://www.instagram.com/pure_bliss_m/"><i class="fab fa-instagram"></i></a>
+<a href="https://www.instagram.com/pure_bliss_m/" target="_blank"><i class="fab fa-instagram"></i></a>
 <a href="#"><i class="fab fa-whatsapp"></i></a>
 
 <div class="sidebar-contact-us">
