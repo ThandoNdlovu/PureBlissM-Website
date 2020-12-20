@@ -53,14 +53,14 @@
       <a href="../Images/transparent.jpg" data-lightbox="gallary-img"><img src="../Images/transparent.jpg" alt="image13" height="200px" weight="200px"></a>
       <a href="../Images/yellownails.jpg" data-lightbox="gallary-img"><img src="../Images/yellownails.jpg" alt="image14" height="200px" weight="200px"></a>
       <a href="../Images/white.jpg" data-lightbox="gallary-img"><img src="../Images/white.jpg" alt="image15" height="200px" weight="200px"></a>
-      <a href="../Images/stiletto berge.jpg" data-lightbox="gallary-img"><img src="../Images/stiletto berge.jpg" alt="image16" height="200px" weight="200px"></a>
-      <a href="../Images/stiletto concrete white.jpg" data-lightbox="gallary-img"><img src="../Images/stiletto concrete white.jpg" alt="image17" height="200px" weight="200px"></a>
+      <a href="../Images/Stiletto berge.jpg" data-lightbox="gallary-img"><img src="../Images/Stiletto berge.jpg" alt="image16" height="200px" weight="200px"></a>
+      <a href="../Images/Stiletto concrete white.jpg" data-lightbox="gallary-img"><img src="../Images/Stiletto concrete white.jpg" alt="image17" height="200px" weight="200px"></a>
       <a href="../Images/sun-kissed pink.jpg" data-lightbox="gallary-img"><img src="../Images/sun-kissed pink.jpg" alt="image18" height="200px" weight="200px"></a>
       <a href="../Images/sun-kissed red.jpg" data-lightbox="gallary-img"><img src="../Images/sun-kissed red.jpg" alt="image19" height="200px" weight="200px"></a>
       <a href="../Images/shades of purple.jpg" data-lightbox="gallary-img"><img src="../Images/shades of purple.jpg" alt="image20" height="200px" weight="200px"></a>
       <a href="../Images/leopard print nails.jpg" data-lightbox="gallary-img"><img src="../Images/leopard print nails.jpg" alt="image21" height="200px" weight="200px"></a>
       <a href="../Images/healthy-fingernails.jpg" data-lightbox="gallary-img"><img src="../Images/healthy-fingernails.jpg" alt="image22" height="200px" weight="200px"></a>
-      <a href="../Images/Pedicu.jpg" data-lightbox="gallary-img"><img src="../Images/Pedicu.jpg" alt="image23" height="200px" weight="200px"></a>
+      <a href="../Images/pedicu.jpg" data-lightbox="gallary-img"><img src="../Images/pedicu.jpg" alt="image23" height="200px" weight="200px"></a>
       <a href="../Images/polygel light purple.jpg" data-lightbox="gallary-img"><img src="../Images/polygel light purple.jpg" alt="image24" height="200px" weight="200px"></a>
       <a href="../Images/polygel nails pitch.jpg" data-lightbox="gallary-img"><img src="../Images/polygel nails pitch.jpg" alt="image25" height="200px" weight="200px"></a>
       <a href="../Images/purple flower nails.jpg" data-lightbox="gallary-img"><img src="../Images/purple flower nails.jpg" alt="image26" height="200px" weight="200px"></a>
@@ -79,7 +79,7 @@
       <a href="../Images/christmas nails.jpg" data-lightbox="gallary-img"><img src="../Images/christmas nails.jpg" alt="image39" height="200px" weight="200px"></a>
       <a href="../Images/blue-purple stiletto polygel nails.jpg" data-lightbox="gallary-img"><img src="../Images/blue-purple stiletto polygel nails.jpg" alt="image40" height="200px" weight="200px"></a>
       <a href="../Images/Butterfly-purple polynails.jpg" data-lightbox="gallary-img"><img src="../Images/Butterfly-purple polynails.jpg" alt="image41" height="200px" weight="200px"></a>
-      <a href="../Images/blue and gold polygel Nails.jpg" data-lightbox="gallary-img"><img src="../Images/blue and gold polygel Nails.jpg" alt="image42" height="200px" weight="200px"></a>
+      <a href="../Images/Blue and gold polygel Nails.jpg" data-lightbox="gallary-img"><img src="../Images/Blue and gold polygel Nails.jpg" alt="image42" height="200px" weight="200px"></a>
       <a href="../Images/gelish bright pink.jpg" data-lightbox="gallary-img"><img src="../Images/gelish bright pink.jpg" alt="image43" height="200px" weight="200px"></a>
       <a href="../Images/white-purple polygel nails.jpg" data-lightbox="gallary-img"><img src="../Images/white-purple polygel nails.jpg" alt="image44" height="200px" weight="200px"></a>
       <a href="../Images/white gelish nails.jpg" data-lightbox="gallary-img"><img src="../Images/white gelish nails.jpg" alt="image45" height="200px" weight="200px"></a>
