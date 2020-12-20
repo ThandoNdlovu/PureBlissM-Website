@@ -1,7 +1,7 @@
 <!--navigation------------------------->
 <nav>
 <!--logo-->
-<a href="#" class="logo"><img src="../Images/title-icon-min.png" alt="icon" height="40px" weight="40px">Pure bliss M</a>
+<a href="#" class="logo"><img src="../Images/title-icon-min.png" alt="icon" height="40px" weight="40px">Purebliss M</a>
 <!--  menu  -->
 <ul>
 <li><a href="index.php" class="active">Home</a></li>
