@@ -59,7 +59,7 @@
 			<p>Where Nails <br>Become Art</p>
 		</div>
 	<!--model---------------------->
-	<img alt="color" class="model" src="../images/color thing.png">
+	<img alt="color" class="model" src="../Images/color thing.png">
 </section id="about">
       <!--   About Us Container       -->
         <div class="about-container">
