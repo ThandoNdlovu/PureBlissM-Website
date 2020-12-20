@@ -13,7 +13,7 @@
   <p>Where Nails Become Art</p>
   <!--social-->
   <div class="social-icons">
-  <a href="https://www.instagram.com/pure_bliss_m/"><i class="fab fa-instagram"></i></a>
+  <a href="https://www.instagram.com/pure_bliss_m/" target="_blank"><i class="fab fa-instagram"></i></a>
    <a href="#"><i class="fab fa-whatsapp"></i></a>
   </div>
   <br><br>
