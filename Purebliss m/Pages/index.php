@@ -8,7 +8,7 @@
 <title>Purebliss M</title>
 
 <!--Title icon-->
-<link rel="icon" href="../Images/title-icon.png">
+<link rel="icon" href="../Images/title-icon-min.png">
 
 <!--Css file or style sheet-->
 <link rel="stylesheet" type="text/css" href="../Css/stylesheet.css">
@@ -37,7 +37,7 @@
   	<!--navigation------------------------->
   	<nav>
   	<!--logo-->
-  <a href="#" class="logo"><img src="../Images/title-icon.png" alt="icon" height="40px" weight="40px">Purebliss M</a>
+  <a href="#" class="logo"><img src="../Images/title-icon-min.png" alt="icon" height="40px" weight="40px">Purebliss M</a>
   	<!--  menu  -->
   	<ul>
   	<li><a href="#home" class="active">Home</a></li>
@@ -52,7 +52,7 @@
   	</nav>
     <!--text----------------------->
 		<div class="text-container">
-			<p> <img src="../Images/title-icon.png" alt="icon" height="100px" weight="100px"></p>
+			<p> <img src="../Images/title-icon-min.png" alt="icon" height="100px" weight="100px"></p>
 
         <!--   Catch phrase/ Slogan     -->
 		    <p>Purebliss M</p>
